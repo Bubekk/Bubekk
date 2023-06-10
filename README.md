@@ -5,7 +5,7 @@
 ## 🚀 About Me
 I'm ex IT admin with techical degree and profefsional experience. Right now, my target is to be a developer. I', self-taught and everything I know is knowledge from web and own failures and mistakes.
 I seek for practical experience based on profefsional work and cooperating with other, more experienced developers.
-Remeber if you don't know something ask google or chatGPT, do not reinvent the wheel, after all, we are in IT 
+Remeber if you don't know something ask google or chatGPT, do not reinvent the wheel, after all, we are in IT 😃
 
 
 ## 🛠 Skills
